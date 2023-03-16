@@ -16,7 +16,7 @@
   </br>
   </br>
 <div style='display:flex;' >
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="540" height="365" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="335" />
 
 <table>
   <tr>
@@ -27,6 +27,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
     </td>
   </tr>
 
@@ -49,11 +53,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-
     </tr>
  <tr>
         <td align="center" width="96">
