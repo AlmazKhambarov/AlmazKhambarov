@@ -68,6 +68,8 @@
   target='_blank'></a>
  </br>
 </br>
+
+![Snake animation](https://github.com/AlmazKhambarov/AlmazKhambarov/blob/output/github-contribution-grid-snake.svg)
  
  
 </div>
