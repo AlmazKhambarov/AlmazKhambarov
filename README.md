@@ -25,8 +25,8 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Typescript
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -58,8 +58,8 @@
       <br>Postman
     </td>
             <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Rest
     </td>
     </tr>
 </table>
